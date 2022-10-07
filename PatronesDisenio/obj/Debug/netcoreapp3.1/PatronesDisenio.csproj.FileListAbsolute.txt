@@ -1,0 +1,14 @@
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\bin\Debug\netcoreapp3.1\PatronesDisenio.exe
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\bin\Debug\netcoreapp3.1\PatronesDisenio.deps.json
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\bin\Debug\netcoreapp3.1\PatronesDisenio.runtimeconfig.json
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\bin\Debug\netcoreapp3.1\PatronesDisenio.runtimeconfig.dev.json
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\bin\Debug\netcoreapp3.1\PatronesDisenio.dll
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\bin\Debug\netcoreapp3.1\PatronesDisenio.pdb
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.csproj.AssemblyReference.cache
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.AssemblyInfoInputs.cache
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.AssemblyInfo.cs
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.csproj.CoreCompileInputs.cache
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.dll
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.pdb
+C:\Users\Inter Computers SRL\source\repos\PatronesDisenio\PatronesDisenio\obj\Debug\netcoreapp3.1\PatronesDisenio.genruntimeconfig.cache
